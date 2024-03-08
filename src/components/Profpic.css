@@ -1,0 +1,19 @@
+
+
+.photo{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+}
+.prof{
+    display: flex;
+    gap: 1rem;
+}
+h5{
+    all: unset;
+    font-weight: 500;
+}
+.names{
+    display: flex;
+    flex-direction: column;
+}

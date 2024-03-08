@@ -1,0 +1,43 @@
+
+
+.houseBox{
+    padding: 3rem 1.5rem 2rem 4rem;
+    /* position: relative; */
+    display: flex;
+    /* flex-wrap: wrap; */
+
+
+}
+
+.imageBox{
+    /* position: absolute;
+    top: 0%;
+    left: 2%; */
+    width: 48%;
+    height: 22rem;
+    margin-top: 5rem;
+    z-index: 5;
+    
+}
+.imageBox img{
+    width: 100%;
+}
+.textLorem{
+    /* position: absolute;
+    left: 38%; */
+    width: 40%;
+    height: 24rem;
+    padding: 7rem 8rem 9rem 7rem;
+    background-color: #f3f4f6;
+    
+}
+.innerDiv{
+    margin-left: 5rem;
+}
+h2{
+    font-size: 2.2rem;
+}
+span{
+    line-height: 1.5rem;
+    color: rgb(89, 88, 88);
+}

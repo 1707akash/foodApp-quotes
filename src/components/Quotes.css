@@ -1,0 +1,24 @@
+
+
+
+.quoteCont{
+    margin-top: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 1rem;
+}
+.quotes{
+    all: unset;
+    width: 25rem;
+    border-radius: 2rem;
+    padding: auto;
+    gap: 0.5rem;
+}
+.spanBox{
+    background-color: #f9fafb;
+    box-shadow: 0 0 5px #b6b6b6;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
