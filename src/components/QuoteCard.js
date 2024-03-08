@@ -8,7 +8,6 @@ const QuoteCard =(props)=>{
         <div className='container'>
         <p>{props.description}</p>
         <span>{props.author}</span>
-        <h3>Hii</h3>
 
         </div>
     )
