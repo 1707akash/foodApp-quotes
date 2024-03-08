@@ -2,6 +2,7 @@
 import Navbar from '../components/Navbar';
 import QuoteCard from '../components/QuoteCard';
 import './QuoteScreen.css';
+import Footer from '../components/Footer';
 
 const QuoteScreen = ()=>{
 
@@ -37,6 +38,8 @@ const QuoteScreen = ()=>{
                 )
             })
             }
+        
+        <Footer />
         
         
         </> 
